@@ -1,0 +1,15 @@
+{
+  "name": "search-files-cli",
+  "version": "1.0.0",
+  "description": "Exemplo de CLI para localizar arquivos em uma pasta",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "keywords": [],
+  "author": "Ederson Pereira",
+  "license": "MIT"
+}
